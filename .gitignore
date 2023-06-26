@@ -1,0 +1,9 @@
+sqs-delete
+
+*.env*
+
+!.env.sample
+
+*.tar.gz
+
+*.json
